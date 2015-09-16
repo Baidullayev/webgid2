@@ -1,0 +1,18 @@
+.stationListStyle{
+	width:120px;
+	float:left;
+	margin-right:-100px;
+	padding-bottom:55;
+}
+
+.mainCanvasStyle{
+	margin-top: 15px;	
+	margin-left:125px;
+}
+.topTimeStyle{
+	position: fixed;
+	margin-left:125px;
+}
+.bottomTimeStyle{
+	margin-left:125px;
+}
